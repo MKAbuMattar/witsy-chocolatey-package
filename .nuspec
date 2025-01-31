@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>witsy</id>
+    <version>1.37.2</version>
+    <title>Witsy is a BYOK (Bring Your Own Keys) AI application</title>
+    <authors>Nicolas Bonamy</authors>
+    <owners>Mohammad Abu Mattar</owners>
+    <licenseUrl>https://github.com/nbonamy/witsy/blob/main/LICENSE</licenseUrl>
+    <projectUrl>https://witsyai.com/</projectUrl>
+    <iconUrl>https://witsyai.com/img/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Witsy is a BYOK (Bring Your Own Keys) AI application. It allows you to integrate API keys from various LLM providers or use Ollama to run models locally on your machine for free. Witsy provides a flexible and powerful platform for AI enthusiasts and professionals.</description>
+    <summary>Witsy: A flexible BYOK AI application for integrating various LLM providers or running models locally.</summary>
+    <releaseNotes>Initial release of Witsy AI package.</releaseNotes>
+    <tags>witsy ai byok llm ollama</tags>
+    <packageSourceUrl>https://github.com/MKAbuMattar/witsy-chocolatey-package</packageSourceUrl>
+    <docsUrl>https://github.com/nbonamy/witsy/tree/main/docs</docsUrl>
+    <bugTrackerUrl>https://github.com/nbonamy/witsy/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/nbonamy/witsy</projectSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
