@@ -1,5 +1,29 @@
 # Witsy Chocolatey Package
 
+<div align="center">
+  <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- <a href="https://community.chocolatey.org/packages/witsy">
+    <img src="https://img.shields.io/github/v/release/MKAbuMattar/witsy-chocolatey-package?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="Terraform Registry"/>
+  </a>
+  <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package/releases">
+    <img src="https://img.shields.io/github/v/release/MKAbuMattar/witsy-chocolatey-package?include_prereleases&sort=date&style=for-the-badge" alt="GitHub Releases"/>
+  </a> -->
+  <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package/stargazers">
+    <img src="https://img.shields.io/github/stars/MKAbuMattar/witsy-chocolatey-package.svg?style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package/forks">
+    <img src="https://img.shields.io/github/forks/MKAbuMattar/witsy-chocolatey-package.svg?style=for-the-badge" alt="GitHub Forks"/>
+  </a>
+  <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package/issues">
+    <img src="https://img.shields.io/github/issues/MKAbuMattar/witsy-chocolatey-package.svg?style=for-the-badge" alt="GitHub Issues"/>
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/MKAbuMattar/witsy-chocolatey-package.svg?style=for-the-badge" alt="GitHub License"/>
+  </a>
+</div>
+
 ## Downloads
 
 To install Witsy, run the following command from the command line or from PowerShell:
