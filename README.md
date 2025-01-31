@@ -1,4 +1,4 @@
-# Witsy Chocolatey Package
+# Witsy AI Chocolatey Package
 
 <div align="center">
   <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package">
