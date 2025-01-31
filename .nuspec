@@ -15,7 +15,7 @@
     <releaseNotes>Initial release of Witsy AI package.</releaseNotes>
     <tags>witsy ai byok llm ollama</tags>
     <packageSourceUrl>https://github.com/MKAbuMattar/witsy-chocolatey-package</packageSourceUrl>
-    <docsUrl>https://github.com/nbonamy/witsy/tree/main/docs</docsUrl>
+    <docsUrl>https://github.com/nbonamy/witsy/blob/main/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/nbonamy/witsy/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/nbonamy/witsy</projectSourceUrl>
   </metadata>
