@@ -57,11 +57,9 @@ AI commands are quick helpers accessible from a shortcut that leverages LLM to b
 
 You can also create custom commands with the prompt of your liking!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nbonamy/witsy/refs/heads/main/doc/commands1.jpg" height="200" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/nbonamy/witsy/refs/heads/main/doc/commands2.jpg" height="200" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/nbonamy/witsy/refs/heads/main/doc/commands3.jpg" height="200" />
-</p>
+![commands1](https://raw.githubusercontent.com/nbonamy/witsy/refs/heads/main/doc/commands1.jpg)
+![commands2](https://raw.githubusercontent.com/nbonamy/witsy/refs/heads/main/doc/commands2.jpg)
+![commands3](https://raw.githubusercontent.com/nbonamy/witsy/refs/heads/main/doc/commands3.jpg)
 
 ## Experts
 
