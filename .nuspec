@@ -13,16 +13,6 @@
     <description><![CDATA[
 # Witsy AI Chocolatey Package
 
-## Downloads
-
-To install Witsy, run the following command from the command line or PowerShell:
-
-```powershell
-choco install witsy
-```
-
-This command will download the witsy installer from the official website and execute it silently.
-
 ## What is Witsy?
 
 Witsy is a BYOK (Bring Your Own Keys) AI application: it means you need to have API keys for the LLM providers you want to use. Alternatively,
