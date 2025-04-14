@@ -7,7 +7,7 @@
   <a href="https://community.chocolatey.org/packages/witsy">
     <img src="https://img.shields.io/chocolatey/v/witsy?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="Witsy on Chocolatey"/>
   </a>
-  <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package/releases">
+  <a href="https://community.chocolatey.org/packages/witsy">
     <img src="https://img.shields.io/chocolatey/dt/witsy?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="Witsy Downloads"/>
   </a>
   <a href="https://github.com/MKAbuMattar/witsy-chocolatey-package/stargazers">
