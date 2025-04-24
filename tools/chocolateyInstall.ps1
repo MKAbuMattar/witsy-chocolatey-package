@@ -1,8 +1,8 @@
 $ErrorActionPreference = 'Stop';
 $packageName = 'Witsy'
-$url = 'https://github.com/nbonamy/witsy/releases/download/v2.4.11/Witsy-2.4.11-win32-x64.Setup.exe'
+$url = 'https://github.com/nbonamy/witsy/releases/download/v2.4.12/Witsy-2.4.12-win32-x64.Setup.exe'
 $installerType = 'exe'
-$checksum = '4FF28FF20AA4310C7D6C8B0D4954C9D09415D51AA905EA654E5BF0DF9376EA0C'
+$checksum = '1EE148A93D3C2A6291050E451A986E0E6382CF5AC43C5FB122854A07A5613722'
 $checksumType = 'sha256'
 $silentArgs = '/S'
 $validExitCodes = @(0)
