@@ -36,7 +36,7 @@ This command will download the witsy installer from the official website and exe
 
 ## Manual Installation
 
-To install Witsy manually, download Witsy from [witsyai.com](https://witsyai.com) or from the [releases](https://github.com/nbonamy/witsy/releases) page.
+To install Witsy manually, download Witsy from [witsyai.com](https://witsyai.com) or from the [releases](https://github.com/Kochava-Studios/witsy/releases) page.
 
 ## What is Witsy?
 
@@ -83,7 +83,7 @@ Generate content in any application:
 
 For issues with the Chocolatey package, please visit the [GitHub repository](https://github.com/MKAbuMattar/witsy-chocolatey-package/issues).
 
-For support with Witsy AI itself, including how to use models or troubleshooting, please refer to [Witsy issues](https://github.com/nbonamy/witsy/issues).
+For support with Witsy AI itself, including how to use models or troubleshooting, please refer to [Witsy issues](https://github.com/Kochava-Studios/witsy/issues).
 
 ## Contributing
 
